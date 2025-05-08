@@ -85,21 +85,24 @@ f. Boetes.*
 ## **Artikel 6 - Inbeslagname**
 
 1. Wanneer een strafbaar feit gepleegd is met een goed, of wanneer een goed uit een strafbaar feit is verkregen, kan deze in beslag worden genomen.  
-De keuze voor inbeslagname is ter beoordeling van Politie.  
-Verwerking van de in beslag genomen goederen geschiedt volgens richtlijn van 
-Politie.  
+De keuze voor inbeslagname is ter beoordeling van de politie.  
+Verwerking van de in beslag genomen goederen geschiedt volgens richtlijn van de politie.  
  
 2. Wanneer een voertuig in beslag wordt genomen vanwege een strafbaar feit:  
 *a. Kan deze maximaal drie (3) dagen worden vastgehouden voor onderzoek.*  
-*b. Zal deze, nadat bewijsbaar is aangetoond dat het voertuig onderdeel was van een strafbaar feit waarbij de eigenaar ook veroordeeld is, uitgekocht kunnen worden voor  motoren; €5000,00, Auto’s; €7500,00 en Supercars;€15.000,00.*
- 
-c. Zal deze kosteloos worden teruggegeven (na eventueel onderzoek) indien de eigenaar geen strafbaar feit ten laste is gelegd, of kan gelegd worden, welke in directe zin gekoppeld is aan de reden van inbeslagname.*  
+*b. Zal deze, nadat bewijsbaar is aangetoond dat het voertuig onderdeel was van een strafbaar feit waarbij de eigenaar ook veroordeeld is, uitgekocht kunnen worden voor 25% van de nieuw waarde bij verkeersovertredingen & 33% bij criminele activiteiten.*
+<br>
+*c. Zal deze kosteloos worden teruggegeven (na eventueel onderzoek) indien de eigenaar geen strafbaar feit ten laste is gelegd, of kan gelegd worden, welke in directe zin gekoppeld is aan de reden van inbeslagname.*  
  
 3. Geldige redenen voor inbeslagname zijn:  
 *a. Plegen van een strafbaar feit uit het wetboek van stadsleven waarbij het goed direct of indirect betrokken is, behalve fout parkeren en een snelheidsovertreding.*  
 *b. Niet stoppen voor stopteken gegeven door middel van een politie transparant of rode lamp.*  
 *c. Niet voldoen aan (verkeers)aanwijzing van bevoegde en als zodanig kenbare opsporingsambtenaar.*  
 *d. Snelheidsovertreding van meer dan 100% van de maximumsnelheid*
+
+4. Voertuig dient binnen 2 weken na inbeslagname worden afgehaald, anders zal deze in de politieveilingen worden verkocht.
+
+5. Een voertuig dat in beslag is genomen kan pas na 24 uur worden opgehaald bij het politiebureau.
 
 
 
@@ -108,10 +111,13 @@ c. Zal deze kosteloos worden teruggegeven (na eventueel onderzoek) indien de eig
 1. Wanneer tijdens een controle of aanhouding aangetoond wordt dat het totaalbedrag van openstaande boetes boven de €5.000,- reikt, kan dit impact hebben op de strafeis. 
 
 *a. Wanneer dit aangetoond wordt bij het opvragen van een inbeslaggenomen goed of voertuig kan geëist worden eerst het boetebedrag te voldoen.*  
-*b. Wanneer dit aangetoond wordt tijdens onderzoek volgende op een misdrijf of crimineel feit kan hiervoor een boete of taakstraf worden opgelegd.* 
-*c. De hoogte van deze boete of taakstraf is ter beoordeling van de Officier van Dienst.  
+*b. Wanneer dit aangetoond wordt tijdens onderzoek volgende op een misdrijf of crimineel feit kan hiervoor een boete of taakstraf worden opgelegd.*
+<br> 
+*c. De hoogte van deze boete of taakstraf is ter beoordeling van de Officier van Dienst.*
+<br>
 *d. Deze boete of taakstraf wordt bijgevoegd bij de totale strafeis.*
- 
+ <br>
+<br>
 2. Onder het voldoen van het boetebedrag wordt verstaan tenminste een zodanige betaling te voldoen dat het totale boetebedrag onder de € 2.000,- komt. 
 
 
@@ -222,7 +228,7 @@ c. Zal deze kosteloos worden teruggegeven (na eventueel onderzoek) indien de eig
 | ------------ | ------------- | ------------ | ------------ |
 | Eerste veroordeling  | 20 maanden |  | € 1500,00  |
 | Tweede veroordeling  | 35 maanden   | | € 1750,00  |
-| Meerdere veroordeling | 45 maanden  | | € 3500,00 |
+| Meerdere veroordeling | 45 maanden  | | € 3000,00 |
 
 
 
@@ -238,7 +244,7 @@ c. Zal deze kosteloos worden teruggegeven (na eventueel onderzoek) indien de eig
 | ------------ | ------------- | ------------ | ------------ |
 | Eerste veroordeling  | 20 maanden |  | € 1500,00  |
 | Tweede veroordeling  | 35 maanden   | | € 1750,00  |
-| Meerdere veroordeling | 45 maanden  | | € 3500,00 |
+| Meerdere veroordeling | 45 maanden  | | € 3000,00 |
 
 
 
@@ -251,8 +257,8 @@ c. Zal deze kosteloos worden teruggegeven (na eventueel onderzoek) indien de eig
 | Aantal veroordelingen | Celstraf  | Taakstraf  | Boete |
 | ------------ | ------------- | ------------ | ------------ |
 | Eerste veroordeling  | 10 maanden |  | € 750,00  |
-| Tweede veroordeling  | 20 maanden   | | € 1250,00  |
-| Meerdere veroordeling | 30 maanden  | | € 3000,00 |
+| Tweede veroordeling  | 20 maanden   | | € 1.250,00  |
+| Meerdere veroordeling | 30 maanden  | | € 3.000,00 |
 
 
 
@@ -287,7 +293,7 @@ c. Zal deze kosteloos worden teruggegeven (na eventueel onderzoek) indien de eig
 | ------------ | ------------- | ------------ | ------------ |
 | Eerste veroordeling  | | 20 uur | € 1000,00  |
 | Tweede veroordeling  | 30 maanden   | | € 2500,00  |
-| Meerdere veroordeling | 45 maanden  | | € 4.000,00 |
+| Meerdere veroordeling | 45 maanden  | | € 4000,00 |
 
 
 
@@ -321,9 +327,9 @@ c. Zal deze kosteloos worden teruggegeven (na eventueel onderzoek) indien de eig
 
 | Aantal veroordelingen | Celstraf  | Taakstraf  | Boete |
 | ------------ | ------------- | ------------ | ------------ |
-| Eerste veroordeling  |  | 10 uur | € 1.000,00  |
-| Tweede veroordeling  |  | 15 uur | € 1.500,00  |
-| Meerdere veroordeling | 20 maanden  | | € 3.000,00 |
+| Eerste veroordeling  |  | 10 uur | € 1000,00  |
+| Tweede veroordeling  |  | 15 uur | € 1500,00  |
+| Meerdere veroordeling | 20 maanden  | | € 3000,00 |
 
 
 
@@ -339,9 +345,9 @@ c. Zal deze kosteloos worden teruggegeven (na eventueel onderzoek) indien de eig
 
 | Aantal veroordelingen | Celstraf  | Taakstraf  | Boete |
 | ------------ | ------------- | ------------ | ------------ |
-| Eerste veroordeling  | 35 maanden | | € 1.500,00  |
-| Tweede veroordeling  | 45 maanden | | € 3.000,00  |
-| Meerdere veroordeling | 60 maanden  | | € 5.000,00 |
+| Eerste veroordeling  | 35 maanden | | € 1500,00  |
+| Tweede veroordeling  | 45 maanden | | € 3000,00  |
+| Meerdere veroordeling | 60 maanden  | | € 5000,00 |
 
 
 
@@ -357,9 +363,9 @@ c. Zal deze kosteloos worden teruggegeven (na eventueel onderzoek) indien de eig
 
 | Aantal veroordelingen | Celstraf  | Taakstraf  | Boete |
 | ------------ | ------------- | ------------ | ------------ |
-| Eerste veroordeling  |  | 15 uur | |
-| Tweede veroordeling  | | 20 uur | € 300,00  |
-| Meerdere veroordeling |   | 25 uur | € 750,00 |
+| Eerste veroordeling  |  | 15 uur |€ 5000,00 |
+| Tweede veroordeling  | | 20 uur | € 7500,00  |
+| Meerdere veroordeling |   | 25 uur | € 10.000,00 |
 
 
 
@@ -367,35 +373,28 @@ c. Zal deze kosteloos worden teruggegeven (na eventueel onderzoek) indien de eig
 
 1. Schuldig is een persoon die opzettelijk een ander van het leven berooft.  
  
-2. Wanneer het slachtoffer een ambtenaar in functie betreft wordt de straf met 50% verhoogd.  
- 
-3. Bij een poging tot doodslag wordt de straf met 33% verminderd 
+2. Bij een poging tot doodslag wordt de straf met 33% verminderd 
 
 
 
 | Aantal veroordelingen | Celstraf  | Taakstraf  | Boete |
 | ------------ | ------------- | ------------ | ------------ |
-| Eerste veroordeling  | 30 maanden | 15 uur | € 2000,00 |
-| Tweede veroordeling  | 50 maanden | 20 uur | € 5000,00  |
-| Meerdere veroordeling | |  75 maanden | € 7500,00 |
-
+| Poging tot doodslag op een burger  | 30 maanden |  | € 2200,00 |
+| Poging tot moord/doodslag ambtenaar in functie  | 50 maanden | | € 5000,00  |
 
 
 ## **Artikel 5 - Moord (SR289)** 
 
-1. Schuldig is een persoon die opzettelijk en met voorbedachte rade iemand van het leven berooft. 
+1. Schuldig is een persoon die opzettelijk en met voorbedachte rade iemand van het leven berooft.  
  
-2. Wanneer het slachtoffer een ambtenaar in functie betreft wordt de straf met 50% verhoogd.  
- 
-3. Bij een poging tot moord wordt de straf met 33% verminderd. 
+2. Bij een poging tot moord wordt de straf met 33% verminderd. 
 
 
 
 | Aantal veroordelingen | Celstraf  | Taakstraf  | Boete |
 | ------------ | ------------- | ------------ | ------------ |
-| Eerste veroordeling  | 40 maanden | 15 uur | € 3000,00 |
-| Tweede veroordeling  | 60 maanden | 20 uur | € 6500,00  |
-| Meerdere veroordeling | |  85 maanden | € 10.000,00 |
+| Het vermoorden van een burger  | 40 maanden | | € 3500,00 |
+| Het vermoorden van een ambtenaar in functie  | 60 maanden | | € 6000,00  |
 
 
 
@@ -413,9 +412,9 @@ c. Zal deze kosteloos worden teruggegeven (na eventueel onderzoek) indien de eig
 
 | Aantal veroordelingen | Celstraf  | Taakstraf  | Boete |
 | ------------ | ------------- | ------------ | ------------ |
-| Eerste veroordeling  | | 10 uur | € 1000,00 |
-| Tweede veroordeling  | | 20 uur | € 2000,00  |
-| Meerdere veroordeling | 30 maanden |    | € 5000,00 |
+| Eerste veroordeling  | | 10 uur | € 350,00 |
+| Tweede veroordeling  | | 20 uur | € 450,00  |
+| Meerdere veroordeling | 30 maanden |    | € 550,00 |
 
 
 
@@ -434,9 +433,9 @@ c. Zal deze kosteloos worden teruggegeven (na eventueel onderzoek) indien de eig
 
 | Aantal veroordelingen | Celstraf  | Taakstraf  | Boete |
 | ------------ | ------------- | ------------ | ------------ |
-| Eerste veroordeling  | 20 maanden | | € 1500,00 |
-| Tweede veroordeling  | 35 maanden |  | € 2500,00  |
-| Meerdere veroordeling | 75 maanden |    | € 7500,00 |
+| Eerste veroordeling  | 20 maanden | | € 450,00 |
+| Tweede veroordeling  | 35 maanden |  | € 550,00  |
+| Meerdere veroordeling | 75 maanden |    | € 650,00 |
 
 
 
@@ -454,9 +453,9 @@ c. Zal deze kosteloos worden teruggegeven (na eventueel onderzoek) indien de eig
 
 | Aantal veroordelingen | Celstraf  | Taakstraf  | Boete |
 | ------------ | ------------- | ------------ | ------------ |
-| Eerste veroordeling  |  | 15 uur | € 250,00 |
-| Tweede veroordeling  | | 25 uur | € 750,00  |
-| Meerdere veroordeling | 10 maanden |    | € 1500,00 |
+| Eerste veroordeling  |  | 15 uur | € 750,00 |
+| Tweede veroordeling  | | 25 uur | € 1000,00  |
+| Meerdere veroordeling | 10 maanden |    | € 1800,00 |
 
 
 
@@ -484,23 +483,6 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 | Eerste veroordeling  | 130 maanden |   | € 30.000,00 |
 | Tweede veroordeling  | 175 maanden |  | € 35.000,00  |
 | Meerdere veroordeling | 200 maanden |    | € 45.000,00 |
-
-
-
-## **Artikel II-10 – Dood door schuld (SR307)** 
-
-⦁	Schuldig is een persoon die door zijn toedoen een ander van het leven berooft, zonder dat hierbij sprake is van opzet of voorbedachte rade. 
- 
-⦁	Indien de schuld bestaat door roekeloosheid wordt de straf met 33% verhoogd.
-
-
-
-| Aantal veroordelingen | Celstraf  | Taakstraf  | Boete |
-| ------------ | ------------- | ------------ | ------------ |
-| Eerste veroordeling  | 30 maanden |   | € 10.000,00 |
-| Tweede veroordeling  | 50 maanden |  | € 15.000,00  |
-| Meerdere veroordeling | 70 maanden |    | € 25.000,00 |
-
 
 
 ## **Artikel III-1 – Verkeersovertredingen in algemene zin (WVW5)** 
@@ -628,9 +610,9 @@ Hierbij gelden de volgende aandachtspunten:
 
 | Aantal veroordelingen | Celstraf  | Taakstraf  | Boete | Rijontzegging | 
 | ------------ | ------------- | ------------ | ------------ | ------------ |
-| Eerste veroordeling  | 10 maanden | | € 5000,00 |  |
-| Tweede veroordeling  | 20 maanden |  | € 6000,00  | | 
-| Meerdere veroordeling | 30 maanden |    | € 8000,00 | |
+| Eerste veroordeling  | 10 maanden | | € 6000,00 |  |
+| Tweede veroordeling  | 20 maanden |  | € 6500,00  | | 
+| Meerdere veroordeling | 30 maanden |    | € 7000,00 | |
 
 
 
@@ -644,9 +626,9 @@ Hierbij gelden de volgende aandachtspunten:
 
 | Aantal veroordelingen | Celstraf  | Taakstraf  | Boete | Rijontzegging | 
 | ------------ | ------------- | ------------ | ------------ | ------------ |
-| Eerste veroordeling  |   | 10 uur | € 600,00 | 0-24 uur |
-| Tweede veroordeling  |   | 20 uur | € 800,00  | 24-48 uur | 
-| Meerdere veroordeling |  | 30 uur | € 1200,00 | EMG + afname |
+| Eerste veroordeling  |   | 10 uur | € 3100,00 | 0-24 uur |
+| Tweede veroordeling  |   | 20 uur | € 3500,00  | 24-48 uur | 
+| Meerdere veroordeling |  | 30 uur | € 4000,00 | EMG + afname |
 
 
 
@@ -660,9 +642,9 @@ Hierbij gelden de volgende aandachtspunten:
 
 | Aantal veroordelingen | Celstraf  | Taakstraf  | Boete | 
 | ------------ | ------------- | ------------ | ------------ |
-| Eerste veroordeling  | | 35 uur | € 500,00 |
-| Tweede veroordeling  | 10 maanden  |   | € 800,00  | 1000,00 | 
-| Meerdere veroordeling | 20 maanden |   | € 1200,00 | 1500,00 |
+| Eerste veroordeling  | | 35 uur | € 1200,00 |
+| Tweede veroordeling  | 10 maanden  |   | € 1500,00  | 1000,00 | 
+| Meerdere veroordeling | 20 maanden |   | € 2000,00 | 1500,00 |
 
 
 
@@ -674,7 +656,7 @@ Hierbij gelden de volgende aandachtspunten:
 ⦁	Volledig parkeren op de stoep;  
 ⦁	Parkeren  op plaatsen die enkel bedoeld zijn voor overheidsvoertuigen.*
  
-2. De vastgestelde boete voor bovenstaande acties is € 300,00 
+2. De vastgestelde boete voor bovenstaande acties is € 400,00 
 
 
 
@@ -694,26 +676,14 @@ Hierbij gelden de volgende aandachtspunten:
 
 
 
-| Binnen de bebouwde kom  | Boete  | Rijontzegging  | Inbeslagname | 
+| Snelheid  | Boete  | Rijontzegging  | Inbeslagname | 
 | ------------ | ------------- | ------------ | ------------ |
-| Te hard rijden 6-10 km/h   | € 100,00 |   | 
-| Te hard rijden 11-20 km/h   | € 300,00 |   |
-| Te hard rijden 21-30 km/h  | € 700,00 |   |  |
-| Te hard rijden 31-40 km/h  | € 1000,00 |   |  |
-| Te hard rijden 41-50 km/h  | € 1500,00 |   |  |
-| Te hard rijden 51-60 km/h   | € 2000,00 |   | Ja |
-
-
-
-| Buiten de bebouwde kom   | Boete  | Rijontzegging  | inbeslagname | 
-| ------------ | ------------- | ------------ | ------------ |
-| Te hard rijden 6-10 km/h   | € 100,00 |   | 
-| Te hard rijden 11-20 km/h   | € 300,00 |   |
-| Te hard rijden 21-30 km/h  | € 700,00 |   |  |
-| Te hard rijden 31-40 km/h  | € 1000,00 |   |  |
-| Te hard rijden 41-50 km/h  | € 1500,00 |   |  |
-| Te hard rijden 51-60 km/h   | € 2000,00 |   | Ja |
-
+| Te hard rijden 6-10 km/h   | € 120,00 |   | 
+| Te hard rijden 11-20 km/h   | € 240,00 |   |
+| Te hard rijden 21-30 km/h  | € 360,00 |   |  |
+| Te hard rijden 31-40 km/h  | € 480,00 |   |  |
+| Te hard rijden 41-50 km/h  | € 805,00 |   |Ja  |
+| Te hard rijden > 50 km/h   | € 1500,00 |   | Ja |
 
 
 ## **Artikel III-12 – Voertuigeisen** 
@@ -751,33 +721,33 @@ Hierbij gelden de volgende aandachtspunten:
 
 | kenteken  | Boete  | inbeslagname | 
 | ------------ | ------------- | ------------ |
-| Rijden zonder kenteken  | € 140,00 | Waarschuwing | 
-| Rijden zonder kenteken 2de aanhouding  | € 300,00  | Inbeslagname | 
+| Rijden zonder kenteken  | € 5980,00 | Waarschuwing | 
+| Rijden zonder kenteken 2de staandehouding  | € 10.000,00  | Inbeslagname | 
 
 
 **Strafbepaling neon** 
 
 | neon | Boete  | inbeslagname | 
 | ------------ | ------------- | ------------ |
-| Rijden met neon   | € 140,00 | Waarschuwing | 
-| Rijden met neon 2de aanhouding | € 300,00  | Inbeslagname | 
+| Rijden met neon   | € 2500,00 | Waarschuwing | 
+| Rijden met neon 2de staandehouding | € 5000,00  | Inbeslagname | 
 
 
 **Strafbepaling getinte ramen**
 
 | getinte ramen   | Boete  | inbeslagname | 
 | ------------ | ------------- | ------------ |
-| Ramen dusdanig donker getint zodat de bestuurder en passagier voorin niet zichtbaar zijn | € 230,00 | Waarschuwing | 
-| Ramen dusdanig donker getint zodat de bestuurder en passagier voorin niet zichtbaar zijn 2e aanhouding  | € 500,00  | Inbeslagname | 
+| Ramen dusdanig donker getint zodat de bestuurder en passagier voorin niet zichtbaar zijn | € 1500,00 | Waarschuwing | 
+| Ramen dusdanig donker getint zodat de bestuurder en passagier voorin niet zichtbaar zijn 2e staandehouding  | € 5.000,00  | Inbeslagname | 
 
 
 **Strafbepaling rijden met WOK status** 
 
 | getinte ramen   | Boete  | Taakstraf | inbeslagname | 
 | ------------ | ------------- | ------------ | ------------ |
-| Eerste staandehouding  | € 300,00 | |  Waarschuwing | 
-| Tweede staandehouding  | € 600,00  | | Inbeslagname | 
-| Meerdere staandehoudingen | € 1500,00 | 30 uur |  Inbeslagname | 
+| Eerste staandehouding  | € 580,00 | |  Inbeslagname | 
+| Tweede staandehouding  | € 1.000,00  | | Inbeslagname | 
+| Meerdere staandehoudingen | € 2.500,00 | 30 uur |  Inbeslagname | 
 
 
 
@@ -791,17 +761,49 @@ Hierbij gelden de volgende aandachtspunten:
 
 | Feit | Boete  | inbeslagname | 
 | ------------ | ------------- | ------------ |
-| Blokkeren van de weg   | € 200,00 |  | 
-| Illegale U-turn  | € 125,00 | Inbeslagname |
-| Rijden in een voertuig die verboden is voor de openbare weg   | € 1000,00 | Inbeslagname |
-| Onnodig claxonneren  | € 90,00 |  |
-| Over doorgetrokken streep rijden   | € 120,00 | |
-| Spookrijden  | €250,00 | Inbeslagname |
-| Illegaal off-road rijden | € 100,00 |  |
-| Stilstaan waar niet is toegestaan  | € 150,00 |  |
-| Onnodig links rijden  | € 100,00 |  |
-| Doorrijden bij een stopbord | € 150,00 |  |
-
+| Door rood rijden | € 560,00 |  |
+| Doorrijden bij een stopbord | € 1900,00 |  |
+| Niet opvolgen van aanwijzing verkeersregelaar | € 300,00 |  |
+| Mobiel bellen | € 450,00 |  |
+| Rijden zonder verlichting | € 325,00 |  |
+| Rijden met kapotte verlichting | € 325,00 |  |
+| Illegaal off-road rijden | € 365,00 |  |
+| Doorrijden na ongeval (VPO) | € 6000,00 |  |
+| Rijden met een actieve WOK-status | € 580,00 |  |
+| Rijden met neon verlichting | € 1500,00 |  |
+| Roekeloos rijgedrag (Artikel 5 WvW) | € 1950,00 |  |
+| U-turn maken | € 220,00 |  |
+| Doorgetrokken streep negeren | € 240,00 |  |
+| Veroorzaken verkeershinder | € 220,00 |  |
+| Veroorzaken verkeersongeval licht letsel | € 240,00   |  |
+| Veroorzaken verkeersongeval zwaar letsel | € 2.100,00 |  |
+| Veroorzaken dodelijk verkeersongeval | € 5.500,00 |  |
+| Onnodig claxoneren | € 200,00   |  |
+| Onnodig reven | € 200,00   |  |
+| Geen rijbewijs | € 1.200,00 |  |
+| Geen geldig rijbewijs | € 1.200,00 |  |
+| Het niet tonen van je ID of rijbewijs | € 800,00   |  |
+| Bumperkleven | € 400,00   |  |
+| Rechts inhalen | € 285,00   |  |
+| Over vluchtstrook inhalen | € 285,00   |  |
+| Onnodig links blijven rijden | € 250,00   |  |
+| Fout parkeren | € 400,00   |  |
+| Geen geldige apk | € 580,00   |  |
+| Te donkere ramen | € 2.460,00 |  |
+| Geen APK waardig voertuig | € 580,00   |  |
+| Geen beschermende kleding op motor | € 200,00   |  |
+| Geen helm op | € 250,00   |  |
+| Rijden terwijl rijbewijs is ingevorderd | € 1.200,00 |  |
+| Verboden te keren | € 220,00   |  |
+| Stilstaan op rijbaan | € 310,00   |  |
+| Spookrijden | € 1.300,00 |  |
+| Geen kenteken op voertuig | € 5.980,00 |  |
+| Niet meewerken aan drugs of adem test | € 600,00   |  |
+| Door rijden na een ongeval | € 6.000,00 |  |
+| Door rijden van een afzetting | € 2.200,00 |  |
+| Geen voorrang verlenen | € 700,00   |  |
+| Doorgetrokken streep negeren | € 240,00   |  |
+| Veroorzaken verkeershinder | € 220,00   |  |
 
 
 ## **Artikel III-15 – Illegale voertuigen**
@@ -815,13 +817,21 @@ Hierbij gelden de volgende aandachtspunten:
 ⦁	Indien persoon zoals bedoeld in lid 3 niet de eigenaar van het voertuig is, wordt het voertuig eveneens direct in beslag genomen en vernietigd.  
  
 ⦁	De eigenaar van het voertuig blijft verantwoordelijk, ook al wordt het voertuig met een andere bestuurder aangetroffen. 
-
+ 
+⦁	De boete word gehanteerd naar tabel.
 
 
 | Illegale voertuig | Soort |
 | ------------ | ------------- |
-| Dune buggy | Auto |
-| Cliffhanger | Motor |  
+| Rebel Raid | Auto |
+| KTM EXCF250 | Motor | 
+| Kawasaki X450F | Motor |  
+
+| Aantal | Inbeslagname | Boete |
+| ------------ | ------------- | ------------- |
+| 1ste keer | Ja | € 5000,00 |
+| 2de keer | Ja | € 20.000,00 |
+| 3de keer | Ja | € 40.000,00 |
 
 
 
@@ -846,51 +856,42 @@ Hierbij gelden de volgende aandachtspunten:
 
 | 1-25 ingrediënten  | Celstraf | Taakstraf | Boete |
 | ------------ | ------------- | ------------ | ------------- |
-| Eerste veroordeling  | | 10 uur | €1500,00 | 
-| Tweede veroordeling  | |  20 uur | €2500,00 |
-| Meerdere veroordeling | 25 maanden | | €3500,00 |
+| Eerste veroordeling  | | 10 uur | € 6000,00 | 
+| Tweede veroordeling  | |  20 uur | € 7500,00 |
+| Meerdere veroordeling | 25 maanden | | € 10.000,00 |
 
 
 
-| 26-200 ingrediënten   | Celstraf | Taakstraf | Boete |
+| 30+ ingrediënten   | Celstraf | Taakstraf | Boete |
 | ------------ | ------------- | ------------ | ------------- |
-| Eerste veroordeling  | 20 maanden |  | €4000,00 | 
-| Tweede veroordeling  | 30 maanden |  | €4500,00 |
-| Meerdere veroordeling | 40 maanden | | €5000,00 |
-
-
-
-| >201 ingrediënten | Celstraf | Taakstraf | Boete |
-| ------------ | ------------- | ------------ | ------------- |
-| Eerste veroordeling  | 40 maanden |  | €5500,00 | 
-| Tweede veroordeling  | 50 maanden |  | €6000,00 |
-| Meerdere veroordeling | 60 maanden | | €7500,00 |
-
+| Eerste veroordeling  | 20 maanden |  | € 7500,00 | 
+| Tweede veroordeling  | 30 maanden |  | € 8000,00 |
+| Meerdere veroordeling | 40 maanden | | € 9000,00 |
 
 
 **Rekentabel harddrugs eindproducten.**
 
 | 1-5 eindproducten  | Celstraf | Taakstraf | Boete |
 | ------------ | ------------- | ------------ | ------------- |
-| Eerste veroordeling  | | 10 uur  | €1500,00 | 
-| Tweede veroordeling  | 20 maanden |  | €2500,00 |
-| Meerdere veroordeling | 25 maanden | | €3500,00 |
+| Eerste veroordeling  | | 10 uur  | € 6000,00 | 
+| Tweede veroordeling  | 20 maanden |  | € 6500,00 |
+| Meerdere veroordeling | 25 maanden | | € 7500,00 |
 
 
 
 | 6-40 eindproducten  | Celstraf | Taakstraf | Boete |
 | ------------ | ------------- | ------------ | ------------- |
-| Eerste veroordeling  | 30 maanden | | €4000,00 | 
-| Tweede veroordeling  | 35 maanden |  | €4500,00 |
-| Meerdere veroordeling | 40 maanden | | €5000,00 |
+| Eerste veroordeling  | 30 maanden | | € 7500,00 | 
+| Tweede veroordeling  | 35 maanden |  | € 7750,00 |
+| Meerdere veroordeling | 40 maanden | | € 8000,00 |
 
 
 
 | >41 eindproducten  | Celstraf | Taakstraf | Boete |
 | ------------ | ------------- | ------------ | ------------- |
-| Eerste veroordeling  | 40 maanden | | €5500,00 | 
-| Tweede veroordeling  | 50 maanden |  | €6000,00 |
-| Meerdere veroordeling | 60 maanden | | €7500,00 |
+| Eerste veroordeling  | 40 maanden | | € 8500,00 | 
+| Tweede veroordeling  | 50 maanden |  | € 9000,00 |
+| Meerdere veroordeling | 60 maanden | | € 10.000,00 |
 
 
 
@@ -917,25 +918,25 @@ Hierbij gelden de volgende aandachtspunten:
 
 | 6-25 ingrediënten | Celstraf | Taakstraf | Boete |
 | ------------ | ------------- | ------------ | ------------- |
-| Eerste veroordeling  |  | 10 uur | €500,00 | 
-| Tweede veroordeling  |  | 20 uur | €1000,00 |
-| Meerdere veroordeling | 30 maanden | | €1500,00 |
+| Eerste veroordeling  |  | 10 uur | € 4000,00 | 
+| Tweede veroordeling  |  | 20 uur | € 4250,00 |
+| Meerdere veroordeling | 30 maanden | | € 4500,00 |
 
 
 
 | 26-200 ingrediënten | Celstraf | Taakstraf | Boete |
 | ------------ | ------------- | ------------ | ------------- |
-| Eerste veroordeling  | 20 maanden |  | €2000,00 | 
-| Tweede veroordeling  | 30 maanden  | | €3000,00 |
-| Meerdere veroordeling | 40 maanden | | €4000,00 |
+| Eerste veroordeling  | 20 maanden |  | € 4750,00 | 
+| Tweede veroordeling  | 30 maanden  | | € 5000,00 |
+| Meerdere veroordeling | 40 maanden | | € 5250,00 |
 
 
 
 | >201 ingrediënten | Celstraf | Taakstraf | Boete |
 | ------------ | ------------- | ------------ | ------------- |
-| Eerste veroordeling  | 30 maanden |  | €5000,00 | 
-| Tweede veroordeling  | 45 maanden | | €6000,00 |
-| Meerdere veroordeling | 60 maanden | | €7500,00 |
+| Eerste veroordeling  | 30 maanden |  | € 5500,00 | 
+| Tweede veroordeling  | 45 maanden | | € 5750,00 |
+| Meerdere veroordeling | 60 maanden | | € 6000,00 |
 
 
 
@@ -943,40 +944,25 @@ Hierbij gelden de volgende aandachtspunten:
 
 | 2-5 eindproducten | Celstraf | Taakstraf | Boete |
 | ------------ | ------------- | ------------ | ------------- |
-| Eerste veroordeling  | 20 maanden |  | €500,00 | 
-| Tweede veroordeling  | 25 maanden |  | €1000,00 |
-| Meerdere veroordeling | 30 maanden | | €3000,00 |
+| Eerste veroordeling  | 20 maanden |  | € 2710,00 | 
+| Tweede veroordeling  | 25 maanden |  | € 2750,00 |
+| Meerdere veroordeling | 30 maanden | | € 2800,00 |
 
 
 
 | 6-40 eindproducten  | Celstraf | Taakstraf | Boete |
 | ------------ | ------------- | ------------ | ------------- |
-| Eerste veroordeling  | 35 maanden |  | €2500,00 | 
-| Tweede veroordeling  | 40 maanden |  | €4000,00 |
-| Meerdere veroordeling | 50 maanden | | €5000,00 |
+| Eerste veroordeling  | 35 maanden |  | € 4000,00 | 
+| Tweede veroordeling  | 40 maanden |  | € 4150,00 |
+| Meerdere veroordeling | 50 maanden | | € 4250,00 |
 
 
 
 | >40 eindproducten | Celstraf | Taakstraf | Boete |
 | ------------ | ------------- | ------------ | ------------- |
-| Eerste veroordeling  | 45 maanden |  | €4000,00 | 
-| Tweede veroordeling  | 50 maanden  | | €6000,00 |
-| Meerdere veroordeling | 60 maanden | | €7500,00 |
-
-
-
-## **Artikel V-1 – Tasers (WWM26)** 
-
-⦁	Strafbaar is een persoon die een stroomstootwapen voorhanden heeft, bij zich draagt, opgeslagen heeft in huis of in de laadruimte van zijn of haar vervoermiddel
-
-
-
-| veroordelingen | Celstraf | Taakstraf | Boete |
-| ------------ | ------------- | ------------ | ------------- |
-| Eerste veroordeling  | 10 maanden |  | €1000,00 | 
-| Tweede veroordeling  | 15 maanden | | €2000,00 |
-| Meerdere veroordeling | 20 maanden | | €3000,00 |
-
+| Eerste veroordeling  | 45 maanden |  | €4500,00 | 
+| Tweede veroordeling  | 50 maanden  | | €4650,00 |
+| Meerdere veroordeling | 60 maanden | | €4750,00 |
 
 
 ## **Artikel V-2 – Vuurwapens en explosieven (WWM26)** 
@@ -985,25 +971,25 @@ Hierbij gelden de volgende aandachtspunten:
  
 ⦁	Onderscheid wordt gemaakt tussen: 
  
- *a. Kleine vuurwapens (pistolen, revolvers, e.d.), aangeduid als Categorie 1; 
+ *a. Kleine vuurwapens (pistolen, revolvers, e.d.), aangeduid als Categorie 1;*
  
- b. Automatische vuurwapens, jachtgeweren, shotguns, explosieven, granaten, thermiet, etc., aangeduid als Categorie 2.*
+ *b. Automatische vuurwapens, jachtgeweren, shotguns, explosieven, granaten, thermiet, etc., aangeduid als Categorie 2.*
 
 
 
 | Categorie 1  | Celstraf | Taakstraf | Boete |
 | ------------ | ------------- | ------------ | ------------- |
-| Eerste veroordeling  | 20 maanden |  | €2500,00 | 
-| Tweede veroordeling  | 30 maanden | | €5000,00 |
-| Meerdere veroordeling | 40 maanden | | €7500,00 |
+| Eerste veroordeling  | 20 maanden |  | € 9000,00 | 
+| Tweede veroordeling  | 30 maanden | | € 9500,00 |
+| Meerdere veroordeling | 40 maanden | | € 10.000,00 |
 
 
 
 | Categorie 2 | Celstraf | Taakstraf | Boete |
 | ------------ | ------------- | ------------ | ------------- |
-| Eerste veroordeling  | 30 maanden |  | €5000,00 | 
-| Tweede veroordeling  | 40 maanden | | €7500,00 |
-| Meerdere veroordeling | 60 maanden | | €10.000,00 |
+| Eerste veroordeling  | 30 maanden |  | € 12.500,00 | 
+| Tweede veroordeling  | 40 maanden | | €  12.750,00 |
+| Meerdere veroordeling | 60 maanden | | € 13.000,00 |
 
 
 ## **Artikel V-3 – Slag- en steekwapen (WWM27)**
@@ -1040,48 +1026,6 @@ Hierbij gelden de volgende aandachtspunten:
 
 
 
-## **Artikel V-5 – Wapenhandel (WWM 14-20)** 
-
-⦁	Strafbaar is een persoon die wapens, aangemerkt als niet legaal, invoert, uitvoert, of doorvoert zonder hiervoor een geldig consent te hebben.  
- 
-⦁	Indien een ophanden zijnde wapen transactie aantoonbaar gepleegd zou gaan worden, of dreigde te gaan worden, doch niet is afgerond, wordt dit aangemerkt als poging tot wapenhandel.  
- 
-⦁	Een poging tot wapenhandel zoals beschreven in lid 2 wordt bestraft als zijnde wapenhandel, verminderd met 50% 
-
-
-
-| Veroordelingen | Celstraf | Taakstraf | Boete |
-| ------------ | ------------- | ------------ | ------------- |
-| Eerste veroordeling  | 40 maanden | | €10.000,00 | 
-| Tweede veroordeling  | 60 maanden | | €15.000,00 |
-| Meerdere veroordeling | 80 maanden | | €25.000,00 |
-
-
-
-## **Artikel V-6 – Munitiebezit**
-
-⦁	Strafbaar is een persoon die munitie voorhanden heeft. 
- 
-⦁	Voor elke clip word de celstraf met 25% verhoogd. 
-
-
-
-| Categorie 1  | Celstraf | Taakstraf | Boete |
-| ------------ | ------------- | ------------ | ------------- |
-| Eerste veroordeling  | 5 maanden | | €2500,00 | 
-| Tweede veroordeling  | 10 maanden | | €5000,00 |
-| Meerdere veroordeling | 20 maanden | | €7500,00 |
-
-
-
-| Categorie 2  | Celstraf | Taakstraf | Boete |
-| ------------ | ------------- | ------------ | ------------- |
-| Eerste veroordeling  | 10 maanden | | €5000,00 | 
-| Tweede veroordeling  | 15 maanden | | €7500,00 |
-| Meerdere veroordeling | 30 maanden | | €10.000,00 |
-
-
-
 ## **Artikel VI-1 – Algemeen verbod (Wok1)** 
 
 ⦁	Schuldig is een persoon die zonder geldige vergunning een gelegenheid biedt om op grote schaal mee te dingen naar prijzen of geld, in de vorm van een kansspel.  
@@ -1110,9 +1054,9 @@ Hierbij gelden de volgende aandachtspunten:
 
 | Veroordelingen | Celstraf | Taakstraf | Boete |
 | ------------ | ------------- | ------------ | ------------- |
-| Eerste veroordeling  | | 5 uur | €3000,00 | 
-| Tweede veroordeling  | | 10 uur | €5000,00 |
-| Meerdere veroordeling | 15 maanden | | €7500,00 |
+| Eerste veroordeling  | | 20 uur | €3000,00 | 
+| Tweede veroordeling  | | 30 uur | €5000,00 |
+| Meerdere veroordeling | 25 maanden | | €7500,00 |
 
 
 
@@ -1147,7 +1091,7 @@ worden verkregen uit een van tevoren opgegeven aantal symbolen ("De Lotto").
 
 | Veroordelingen | Celstraf | Taakstraf | Boete |
 | ------------ | ------------- | ------------ | ------------- |
-| Eerste veroordeling  | | 5 uur | €7500,00 | 
+| Eerste veroordeling  | | 25 uur | €7500,00 | 
 | Tweede veroordeling  | 15 maanden |  | €10.000,00 |
 | Meerdere veroordeling | 25 maanden | | €17.500,00 |
 
@@ -1203,24 +1147,24 @@ worden verkregen uit een van tevoren opgegeven aantal symbolen ("De Lotto").
 
 1. Wanneer besloten wordt tot een strafvermindering kan als leidraad gebruikt worden: 
 
-*⦁	vermindering van maximaal de helft bij een onvoorwaardelijke tijdelijke vrijheidsstraf, taakstraf of geldboete, of 
-⦁	de omzetting van maximaal de helft van het onvoorwaardelijke gedeelte van een vrijheidsstraf, taakstraf of van een geldboete in een voorwaardelijk gedeelte, of 
+*⦁	vermindering van maximaal de helft bij een onvoorwaardelijke tijdelijke vrijheidsstraf, taakstraf of geldboete, of*
+*⦁	de omzetting van maximaal de helft van het onvoorwaardelijke gedeelte van een vrijheidsstraf, taakstraf of van een geldboete in een voorwaardelijk gedeelte, of*
 
-⦁	de vervanging van maximaal een derde gedeelte van een vrijheidsstraf door taakstraf of een onvoorwaardelijke geldboete.*
+*⦁	de vervanging van maximaal een derde gedeelte van een vrijheidsstraf door taakstraf of een onvoorwaardelijke geldboete.*
  
 2. Strafverminderingsgronden worden bepaald in overleg tussen overheid en verdachte met bijstand van advocaat. Hierin meegenomen worden: 
 
-*⦁	eventuele eerdere vergrijpen (en/of het gebrek daar aan); 
+*⦁	eventuele eerdere vergrijpen (en/of het gebrek daar aan);*
 
-⦁	goed gedrag en meewerking van de verdachte tijdens en na zijn of haar aanhouding; 
+*⦁	goed gedrag en meewerking van de verdachte tijdens en na zijn of haar aanhouding;* 
 
-⦁	verzachtende omstandigheden; 
+*⦁	verzachtende omstandigheden;* 
 
-⦁	overmacht als gevolg van Stadsproblemen ("storm"); 
+*⦁	overmacht als gevolg van Stadsproblemen ("storm");* 
 
-⦁	proportionaliteit; 
+*⦁	proportionaliteit;* 
 
-⦁	aandeel van de verdachte in het geheel, indien er sprake is van een grootschalige overtreding met meerdere partijen.*
+*⦁	aandeel van de verdachte in het geheel, indien er sprake is van een grootschalige overtreding met meerdere partijen.*
 
 
 
@@ -1240,9 +1184,9 @@ worden verkregen uit een van tevoren opgegeven aantal symbolen ("De Lotto").
 
 | Veroordelingen | Celstraf | Taakstraf | Boete |
 | ------------ | ------------- | ------------ | ------------- |
-| Eerste veroordeling  | | 5 uur | €2000,00 | 
-| Tweede veroordeling  | | 10 uur | €5000,00 |
-| Meerdere veroordeling | 20 maanden | | €8000,00 |
+| Eerste veroordeling  | | 30 | €5500,00 | 
+| Tweede veroordeling  | 20 maanden |  | €9000,00 |
+| Meerdere veroordeling | 40 maanden | | €18.000,00 |
 
 
 
@@ -1250,23 +1194,23 @@ worden verkregen uit een van tevoren opgegeven aantal symbolen ("De Lotto").
 
 1. De douane is bevoegd aan controle te onderwerpen: 
 
-*⦁	Personen en/of vervoermiddelen en/of plaatsen voor distributie en overslag voor goederen die over de weg worden vervoerd, havens, haventerreinen, luchthavens, grensinspectiepost en luchtvaartterreinen. 
+*⦁	Personen en/of vervoermiddelen en/of plaatsen voor distributie en overslag voor goederen die over de weg worden vervoerd, havens, haventerreinen, luchthavens, grensinspectiepost en luchtvaartterreinen.* 
 
-⦁	Controle zoals beschreven in lid 1 is alleen van toepassing op gebieden die staan gemarkeerd als douanegebied op de douanekaart. Zie hiervoor de kaart douanegebieden in het wetboek.
+*⦁	Controle zoals beschreven in lid 1 is alleen van toepassing op gebieden die staan gemarkeerd als douanegebied op de douanekaart. Zie hiervoor de kaart douanegebieden in het wetboek.*
  
-⦁	Uitzondering op lid 1b betreft vervoersmiddelen en/of personen, die aantoonbaar door de douane, vanuit open water het binnenland of binnenwater betreden. 
+*⦁	Uitzondering op lid 1b betreft vervoersmiddelen en/of personen, die aantoonbaar door de douane, vanuit open water het binnenland of binnenwater betreden.* 
  
-⦁	Onder controle in de zin van lid 1 wordt mede verstaan doorzoeking en fouillering. 
+*⦁	Onder controle in de zin van lid 1 wordt mede verstaan doorzoeking en fouillering.* 
  
-⦁	Fouillering geschiedt op een besloten plaats door dienstdoend personeel die van hetzelfde geslacht zijn als de persoon die aan fouillering wordt onderworpen, is dit niet mogelijk mag er van de regel worden afgeweken.  
+*⦁	Fouillering geschiedt op een besloten plaats door dienstdoend personeel die van hetzelfde geslacht zijn als de persoon die aan fouillering wordt onderworpen, is dit niet mogelijk mag er van de regel worden afgeweken.*  
  
-⦁	Onder fouillering zoals beschreven wordt verstaan: het onderzoek aan de kleding; en/of het verwijderen van de kleding, teneinde deze aan een nauwkeurig onderzoek te onderwerpen. Verwijderen van onderkleding is niet toegestaan. 
+*⦁	Onder fouillering zoals beschreven wordt verstaan: het onderzoek aan de kleding; en/of het verwijderen van de kleding, teneinde deze aan een nauwkeurig onderzoek te onderwerpen. Verwijderen van onderkleding is niet toegestaan.*
   
-⦁	De douane is bevoegd vervoermiddelen die aanwezig zijn in of op de bedoelde locaties van lid 1 te doorzoeken.  
+*⦁	De douane is bevoegd vervoermiddelen die aanwezig zijn in of op de bedoelde locaties van lid 1 te doorzoeken.*  
  
-⦁	Personen zijn op vordering van de douane gehouden stil te staan en deze te volgen naar een door hem aangewezen plaats.  
+*⦁	Personen zijn op vordering van de douane gehouden stil te staan en deze te volgen naar een door hem aangewezen plaats.*  
  
-⦁	Op vordering van de douane zijn reizigers, die zich bevinden in een vervoermiddel op de bedoelde locaties van lid 1, gehouden hun identiteit- en/of rijbewijs te vertonen. Deze verplichting geldt eveneens voor reizigers die in het vervoermiddel aanwezig zijn of juist hebben verlaten, dan wel die op het punt staan daarin aan boord te gaan.*
+*⦁	Op vordering van de douane zijn reizigers, die zich bevinden in een vervoermiddel op de bedoelde locaties van lid 1, gehouden hun identiteit- en/of rijbewijs te vertonen. Deze verplichting geldt eveneens voor reizigers die in het vervoermiddel aanwezig zijn of juist hebben verlaten, dan wel die op het punt staan daarin aan boord te gaan.*
 
 
 
@@ -1280,15 +1224,15 @@ worden verkregen uit een van tevoren opgegeven aantal symbolen ("De Lotto").
 
 | Veroordelingen | Celstraf | Taakstraf | Boete |
 | ------------ | ------------- | ------------ | ------------- |
-| Eerste veroordeling  | | 10 uur | €500,00 | 
-| Tweede veroordeling  | | 15 uur | €1000,00 |
-| Meerdere veroordeling | 15 maanden | | €1500,00 |
+| Eerste veroordeling  | | 20 uur | €2500,00 | 
+| Tweede veroordeling  | 20 maanden | | €5000,00 |
+| Meerdere veroordeling | 30 maanden | | €12.500,00 |
 
 
 
 ## **Artikel IX-2 – Belediging (SR266)** 
 
-⦁	Schuldig is een persoon die opzettelijk een ander beledigt op straffe van een boete van €250,- per geval.  
+⦁	Schuldig is een persoon die opzettelijk een ander beledigt op straffe van een boete van €2000,- per geval.  
  
 ⦁	Wanneer de belediging opzettelijk is geuit richting een ambtenaar in functie wordt de boete met 50% verhoogd. 
 
@@ -1296,13 +1240,13 @@ worden verkregen uit een van tevoren opgegeven aantal symbolen ("De Lotto").
 
 ## **Artikel IX-3 – Opgeven valse gegevens (SR435)**
 
-⦁	Schuldig is een persoon die bij vordering van een ambtenaar in functie valse gegevens opgeeft, op straffe van een boete van €250,- per geval. 
+⦁	Schuldig is een persoon die bij vordering van een ambtenaar in functie valse gegevens opgeeft, op straffe van een boete van €5500,- per geval. 
 
 
 
 ## **Artikel IX-4 – Niet op eerste vordering tonen indentiteitsbewijs (SR447e)**
 
-⦁	Schuldig is een persoon die geen gehoor geeft aan een vordering tot inzage van het identiteitsbewijs door een ambtenaar in functie, wanneer dit in het kader van de wet door de ambtenaar als noodzakelijk wordt geacht, op straffe van een boete van €250,- per geval. 
+⦁	Schuldig is een persoon die geen gehoor geeft aan een vordering tot inzage van het identiteitsbewijs door een ambtenaar in functie, wanneer dit in het kader van de wet door de ambtenaar als noodzakelijk wordt geacht, op straffe van een boete van €2500,- per geval. 
 
 
 ## **Artikel IX-5 – Openbare dronkenschap** 
@@ -1313,9 +1257,9 @@ worden verkregen uit een van tevoren opgegeven aantal symbolen ("De Lotto").
 
 | Veroordelingen | Celstraf | Taakstraf | Boete |
 | ------------ | ------------- | ------------ | ------------- |
-| Eerste veroordeling  | | 10 uur | €500,00 | 
-| Tweede veroordeling  | | 15 uur | €1000,00 |
-| Meerdere veroordeling | 15 maanden | | €1500,00 |
+| Eerste veroordeling  | | 10 uur | € 110,00 | 
+| Tweede veroordeling  | | 15 uur | € 150,00 |
+| Meerdere veroordeling | 15 maanden | | € 250,00 |
 
 
 
@@ -1339,9 +1283,9 @@ worden verkregen uit een van tevoren opgegeven aantal symbolen ("De Lotto").
 
 | Veroordelingen | Celstraf | Taakstraf | Boete |
 | ------------ | ------------- | ------------ | ------------- |
-| Eerste veroordeling  | | | €1000,00 | 
-| Tweede veroordeling  | | 10 uur | €2000,00 |
-| Meerdere veroordeling | 10 maanden | | €3000,00 |
+| Eerste veroordeling  | | | € 300,00 | 
+| Tweede veroordeling  | | 30 uur | € 350,00 |
+| Meerdere veroordeling | 20 maanden | | € 400,00 |
 
 
 
@@ -1358,9 +1302,9 @@ worden verkregen uit een van tevoren opgegeven aantal symbolen ("De Lotto").
 
 | Veroordelingen | Celstraf | Taakstraf | Boete |
 | ------------ | ------------- | ------------ | ------------- |
-| Eerste veroordeling  | 10 maanden | | €3500,00 | 
-| Tweede veroordeling  | 20 maanden | | €6000,00 |
-| Meerdere veroordeling | 40 maanden | | €10.000,00 |
+| Eerste veroordeling  | 10 maanden | | €7500,00 | 
+| Tweede veroordeling  | 20 maanden | | €15.000,00 |
+| Meerdere veroordeling | 40 maanden | | €17.500,00 |
 
 
 
@@ -1390,9 +1334,9 @@ worden verkregen uit een van tevoren opgegeven aantal symbolen ("De Lotto").
 
 | Veroordelingen | Celstraf | Taakstraf | Boete |
 | ------------ | ------------- | ------------ | ------------- |
-| Eerste veroordeling  | | 10 uur | €500,00 | 
-| Tweede veroordeling  | | 20 uur | €1500,00 |
-| Meerdere veroordeling | 30 maanden | | €2000,00 |
+| Eerste veroordeling  | | 10 uur | € 1900,00 | 
+| Tweede veroordeling  | | 20 uur | € 2000,00 |
+| Meerdere veroordeling | 30 maanden | | € 2100,00 |
 
 
 ## **Artikel IX-11 – Betreden van verboden domein**
@@ -1411,9 +1355,9 @@ worden verkregen uit een van tevoren opgegeven aantal symbolen ("De Lotto").
 
 | Veroordelingen | Celstraf | Taakstraf | Boete |
 | ------------ | ------------- | ------------ | ------------- |
-| Eerste veroordeling  | 10 maanden | | €1000,00 | 
-| Tweede veroordeling  | 20 maanden | | €1500,00 |
-| Meerdere veroordeling | 30 maanden | | €2500,00 |
+| Eerste veroordeling  | 10 maanden | | € 120,00 | 
+| Tweede veroordeling  | 20 maanden | | € 150,00 |
+| Meerdere veroordeling | 30 maanden | | € 200,00 |
 
 
 
@@ -1434,8 +1378,12 @@ worden verkregen uit een van tevoren opgegeven aantal symbolen ("De Lotto").
 | Bij wet geclassificeerde verboden diersoorten en koralen   |
 | ------------ | 
 | Schildpadden |
-| Haaien  | 
-
+| Pijlstaartrog  | 
+| Dolfijn  | 
+| Hamerhaai | 
+| Haai | 
+| Tijgerhaai | 
+| Walvis | 
 
 
 **Dieren Rekentabel**
@@ -1675,105 +1623,4 @@ Dit mag uitgevoerd worden door de politie,kmar en douane.
 
 ## **Kaartweergave**
 
-![Kaart met risicogebieden](img/Douanegebied_Veendorp.jpg)
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![Kaart met risicogebieden](img/Douanegebied_Veendorp.png)
